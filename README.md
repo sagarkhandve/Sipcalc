@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
 
 Clone this repository and `cd` into it.
    ```shell
