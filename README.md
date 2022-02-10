@@ -18,7 +18,6 @@ Global options:
 					the current subnet). Will display all subnets
 					in the current /24 if NUM is 0.
   -u, --split-verbose		Verbose split.
-  -v, --version			Version information.
   -4, --addr-ipv4=ADDR		Add an ipv4 address.
   -6, --addr-ipv6=ADDR		Add an ipv6 address.
 
